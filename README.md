@@ -1,2 +1,1 @@
-# nait-web-design-homeworks
-All web design homework projects at NAIT
+# This folder includes all homeworks projects for Web Design course at NAIT DMIT.
