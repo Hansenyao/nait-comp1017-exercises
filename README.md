@@ -1,1 +1,1 @@
-# This folder includes all homeworks projects for Web Design course at NAIT DMIT.
+# nait-comp1017-exercises
